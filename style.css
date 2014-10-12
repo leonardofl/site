@@ -48,6 +48,10 @@ h1 {
   font-family: 'Architects Daughter', arial, serif;
 }
 
+a:visited {
+    color: #4000FF;
+}
+
 footer {
   font-size: 11px;
   font-style:italic;  
