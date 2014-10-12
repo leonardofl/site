@@ -22,27 +22,9 @@ header {
 
 body {
 
-/* gradiente generated with http://gradients.glrzad.com/ */
-background-image: -webkit-gradient(
-    linear,
-    left bottom,
-    left top,
-    color-stop(0.24, rgb(240,228,149)),
-    color-stop(0.51, rgb(252,250,232)),
-    color-stop(0.94, rgb(249,250,190))
-);
-background-image: -moz-linear-gradient(
-    center bottom,
-    rgb(240,228,149) 24%,
-    rgb(252,250,232) 51%,
-    rgb(249,250,190) 94%
-);
-
-
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background: #FFFFE9; 
   font-size:16px;
-font-family: 'Droid Serif', arial, serif;
+  font-family: 'Droid Serif', arial, serif;
 
   /* borda */
     border-top-style: solid;
